@@ -15,7 +15,7 @@ The goal is to install Ubuntu Server in a virtual machine and learn the fundamen
 
 ## Installation Progress
 
-1. Install VirtualBox and create the Ubuntu VM - done 
+Install VirtualBox and create the Ubuntu VM - done 
  Install Ubuntu Server and enable SSH - Done 
  Learn basic terminal navigation and file commands
  Understand the Linux filesystem
